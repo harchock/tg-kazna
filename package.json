@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "kunchick",
   "license": "MIT",
-  "description": "TG bot for kazna in CC"
+  "description": "TG bot for kazna in CC",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
 }
