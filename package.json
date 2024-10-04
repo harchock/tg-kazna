@@ -1,0 +1,12 @@
+{
+  "name": "tg-kazna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "kunchick",
+  "license": "MIT",
+  "description": "TG bot for kazna in CC"
+}
