@@ -10,6 +10,7 @@
   "license": "MIT",
   "description": "TG bot for kazna in CC",
   "dependencies": {
+    "sqlite3": "^5.1.7",
     "telegraf": "^4.16.3"
   }
 }
