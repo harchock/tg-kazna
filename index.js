@@ -2,10 +2,10 @@ const { Telegraf, Markup } = require('telegraf');
 const sqlite3 = require('sqlite3').verbose();
 const fs = require('fs');
 
-const bot = new Telegraf('8089992446:AAFxMBJZ8AsEZYd6XOemvUth1V6gREAUc2U');
+const bot = new Telegraf('');
 const db = new sqlite3.Database('treasury.db');
-const adminId = 1312227757;
-const paymentsChannelId = '-1002423882545';
+const adminId = ;
+const paymentsChannelId = '';
 
 const paymentSessions = {};
 const monthlyFee = 25;
